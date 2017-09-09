@@ -2,11 +2,12 @@
  * Ejercicio para la practica de Herencia y Polimorfismo
  * Esta clase es una superclase para representar las caracteristicas comunes de muchas figuras
  * @author Luis Fernando Herrera Gonzalez
- * @version 1.0 (8-Sept-17)
+ * @version 2.0 (9-Sept-17)
  */
 
 public class Figura
 {
+    //Variables de instancia
     protected float area;
     protected float perimetro;
     
